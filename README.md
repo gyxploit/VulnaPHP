@@ -1,2 +1,3 @@
-# VulnaPHP
-VulnaPHP
+# 概要
+脆弱なPHPアプリケーションを作ってみるテスト。
+GitとGithubの練習も兼ねて。
